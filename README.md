@@ -1,2 +1,4 @@
-# Time-Converter
-This repository contains the code related time converter code using React Js &amp; tailwind css
+# Build a Time Converter with React JS and Tailwind CSS
+
+
+![time converter](https://github.com/visweswar-reddy-7/Time-Converter)
